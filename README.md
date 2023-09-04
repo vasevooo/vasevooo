@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasily Sevostianov</h1>
-<h3 align="center">I'm a ML Engineer</h3>
+<!-- <h3 align="center">I'm a ML Engineer</h3> -->
 
 - 🌱 I'm interested in **Machine Learning, NLP, CV, Automation, MLOps**
 

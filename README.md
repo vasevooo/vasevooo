@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **vn.sevostyanov1@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/dwmu084lr9](https://flowcv.com/resume/dwmu084lr9)
-
 - ⚡ When I'm not coding **I enjoy running 🏃, snowboarding 🏂 and one day would want to do an Iron Man**
 
 <h3 align="left">Connect with me:</h3>
